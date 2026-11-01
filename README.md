@@ -10,8 +10,8 @@
 
 | 平台 | 文件 |
 | --- | --- |
-| Windows 10/11 | [component-ledger-0.1.4-win64.zip](https://github.com/Petrichorq/component-ledger/releases/download/v0.1.4/component-ledger-0.1.4-win64.zip) · 0.6 MB |
-| macOS / Linux | [component-ledger-0.1.4.tar.gz](https://github.com/Petrichorq/component-ledger/releases/download/v0.1.4/component-ledger-0.1.4.tar.gz) · 0.6 MB |
+| Windows 10/11 | [component-ledger-0.1.5-win64.zip](https://github.com/Petrichorq/component-ledger/releases/download/v0.1.5/component-ledger-0.1.5-win64.zip) · 0.6 MB |
+| macOS / Linux | [component-ledger-0.1.5.tar.gz](https://github.com/Petrichorq/component-ledger/releases/download/v0.1.5/component-ledger-0.1.5.tar.gz) · 0.6 MB |
 
 全部版本见 **[Releases](https://github.com/Petrichorq/component-ledger/releases)**。
 
@@ -29,11 +29,11 @@
 
 浏览器会自动打开 <http://localhost:5173>，关掉黑窗口就是停止。
 
-第一次打开带一份 15 个元件的示例台账，可以直接改。
+第一次打开是**一张空台账**（不带任何示例元件），点「新建元件」开始录入。
 
 ## 装在 Linux 服务器上（实验室多人共用）
 
-包内带 `deploy/` 目录：`sudo bash component-ledger-0.1.4/deploy/install.sh component-ledger-0.1.4`
+包内带 `deploy/` 目录：`sudo bash component-ledger-0.1.5/deploy/install.sh component-ledger-0.1.5`
 一条命令装成 systemd 服务，开机自启、每天 22:00 自动备份、防火墙放行内网端口。
 细节见包内 `deploy/README.md`。
 
@@ -80,7 +80,7 @@
 
 ## 版本
 
-当前 **0.1.4**。之后的版本都发在 [Releases](https://github.com/Petrichorq/component-ledger/releases)，仓库里只放说明和截图，不放安装包。
+当前 **0.1.5**。之后的版本都发在 [Releases](https://github.com/Petrichorq/component-ledger/releases)，仓库里只放说明和截图，不放安装包。
 
 ## 许可
 
