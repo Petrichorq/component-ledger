@@ -1,0 +1,33 @@
+元件簿 · 免费版 第三方组件许可说明
+
+本软件使用了以下开源组件。各组件的版权归其作者所有，许可条款如下：
+
+1. Express
+   许可：MIT
+   版权：Copyright (c) 2009-2014 TJ Holowaychuk, 2013-2014 Roman Shtylh, 2014-2015 Douglas Christopher Wilson
+   项目：https://github.com/expressjs/express
+
+2. React / React DOM
+   许可：MIT
+   版权：Copyright (c) Meta Platforms, Inc. and affiliates
+   项目：https://github.com/facebook/react
+
+3. SheetJS Community Edition (xlsx)
+   许可：Apache License 2.0
+   版权：Copyright (c) SheetJS LLC
+   项目：https://git.sheetjs.com/sheetjs/sheetjs
+
+4. Lucide (lucide-react)
+   许可：ISC
+   版权：Copyright (c) Lucide Contributors
+   项目：https://github.com/lucide-icons/lucide
+
+5. Workbox（离线缓存，随网页下发）
+   许可：MIT
+   版权：Copyright 2018 Google LLC
+   项目：https://github.com/GoogleChrome/workbox
+
+MIT / ISC 许可要点：允许自由使用、修改、分发，需保留版权声明与许可声明；软件按现状提供，作者不承担任何担保责任。
+
+Apache License 2.0 全文：https://www.apache.org/licenses/LICENSE-2.0
+完整许可文本也可在上述各组件的源码仓库中找到。
