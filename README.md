@@ -10,10 +10,10 @@
 
 | 平台 | 文件 |
 | --- | --- |
-| Windows 10/11 | [component-ledger-0.1.4-win64.zip](https://github.com/H19973456501/component-ledger/releases/download/v0.1.4/component-ledger-0.1.4-win64.zip) · 0.6 MB |
-| macOS / Linux | [component-ledger-0.1.4.tar.gz](https://github.com/H19973456501/component-ledger/releases/download/v0.1.4/component-ledger-0.1.4.tar.gz) · 0.6 MB |
+| Windows 10/11 | [component-ledger-0.1.4-win64.zip](https://github.com/Petrichorq/component-ledger/releases/download/v0.1.4/component-ledger-0.1.4-win64.zip) · 0.6 MB |
+| macOS / Linux | [component-ledger-0.1.4.tar.gz](https://github.com/Petrichorq/component-ledger/releases/download/v0.1.4/component-ledger-0.1.4.tar.gz) · 0.6 MB |
 
-全部版本见 **[Releases](https://github.com/H19973456501/component-ledger/releases)**。
+全部版本见 **[Releases](https://github.com/Petrichorq/component-ledger/releases)**。
 
 需要 Node.js 18 或更高版本（<https://nodejs.org/>，装完重启一次电脑）。
 
@@ -80,7 +80,7 @@
 
 ## 版本
 
-当前 **0.1.4**。之后的版本都发在 [Releases](https://github.com/H19973456501/component-ledger/releases)，仓库里只放说明和截图，不放安装包。
+当前 **0.1.4**。之后的版本都发在 [Releases](https://github.com/Petrichorq/component-ledger/releases)，仓库里只放说明和截图，不放安装包。
 
 ## 许可
 
