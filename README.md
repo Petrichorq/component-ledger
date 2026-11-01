@@ -1,4 +1,4 @@
-# 元件簿
+# 芯智先锋资产管理
 
 给自己用的元器件台账：**元件库、库存流转、采购记录、BOM 匹配**。手机和电脑都能开，数据就存在你自己机器上的一个 JSON 文件里。
 
@@ -10,10 +10,10 @@
 
 | 平台 | 文件 |
 | --- | --- |
-| Windows 10/11 | [component-ledger-0.1.5-win64.zip](https://github.com/Petrichorq/component-ledger/releases/download/v0.1.5/component-ledger-0.1.5-win64.zip) · 0.6 MB |
-| macOS / Linux | [component-ledger-0.1.5.tar.gz](https://github.com/Petrichorq/component-ledger/releases/download/v0.1.5/component-ledger-0.1.5.tar.gz) · 0.6 MB |
+| Windows 10/11 | [component-ledger-0.1.6-win64.zip](https://github.com/H19973456501/component-ledger/releases/download/v0.1.6/component-ledger-0.1.6-win64.zip) · 0.6 MB |
+| macOS / Linux | [component-ledger-0.1.6.tar.gz](https://github.com/H19973456501/component-ledger/releases/download/v0.1.6/component-ledger-0.1.6.tar.gz) · 0.6 MB |
 
-全部版本见 **[Releases](https://github.com/Petrichorq/component-ledger/releases)**。
+全部版本见 **[Releases](https://github.com/H19973456501/component-ledger/releases)**。
 
 需要 Node.js 18 或更高版本（<https://nodejs.org/>，装完重启一次电脑）。
 
@@ -33,7 +33,7 @@
 
 ## 装在 Linux 服务器上（实验室多人共用）
 
-包内带 `deploy/` 目录：`sudo bash component-ledger-0.1.5/deploy/install.sh component-ledger-0.1.5`
+包内带 `deploy/` 目录：`sudo bash component-ledger-0.1.6/deploy/install.sh component-ledger-0.1.6`
 一条命令装成 systemd 服务，开机自启、每天 22:00 自动备份、防火墙放行内网端口。
 细节见包内 `deploy/README.md`。
 
@@ -80,7 +80,7 @@
 
 ## 版本
 
-当前 **0.1.5**。之后的版本都发在 [Releases](https://github.com/Petrichorq/component-ledger/releases)，仓库里只放说明和截图，不放安装包。
+当前 **0.1.6**。之后的版本都发在 [Releases](https://github.com/H19973456501/component-ledger/releases)，仓库里只放说明和截图，不放安装包。
 
 ## 许可
 
